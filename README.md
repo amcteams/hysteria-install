@@ -13,7 +13,7 @@ wget -N --no-check-certificate https://raw.githubusercontent.com/amcteams/hyster
 ### Hysteria 1
 
 ```shell
-wget -N --no-check-certificate https://raw.githubusercontent.com/Misaka-blog/hysteria-install/main/hy1/hysteria.sh && bash hysteria.sh
+wget -N --no-check-certificate https://raw.githubusercontent.com/amcteams/hysteria-install/main/hy1/hysteria.sh && bash hysteria.sh
 ```
 
 ### From
